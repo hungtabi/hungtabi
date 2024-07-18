@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nguyen Quoc Hung
+- 👀 I’m interested in embedded, linux
+- 🌱 I’m currently learning at VNU-HCM University of Science
